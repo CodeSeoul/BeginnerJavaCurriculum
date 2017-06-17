@@ -25,16 +25,16 @@
 * 2017-06-17 - Build a Calculator!
   * Accepting input - Scanner
   * Build it!
-* 2017-06-24 - Collections
-  * Arrays
-  * Lists
-  * Maps
-* 2017-07-01 - Objects
+* 2017-06-24 - Objects
   * Let's start using an IDE! IntelliJ!
   * What is a class? What is an object?
   * Access modifiers
   * Creating objects
   * Constructors
+* 2017-07-01 - Collections and Inheritance
+  * Arrays
+  * Lists
+  * Maps
   * Inheritance
 * 2017-07-08 - Interfaces and more on Inheritance
   * Review inheritance
